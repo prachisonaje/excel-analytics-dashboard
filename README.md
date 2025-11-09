@@ -42,3 +42,6 @@ The purpose of this dashboard is to analyze recipes across different cuisines, c
 - Designed an interactive dashboard layout.
 - Highlighted key KPIs such as top-rated cuisine, average cooking time, and most popular ingredients.
 - Drew conclusions and insights based on visual trends.
+
+## Dashboard
+![global recipe insight](https://github.com/user-attachments/assets/a2684770-5c58-4d7e-988f-4479dde6b30a)
