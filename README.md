@@ -18,3 +18,27 @@ The purpose of this dashboard is to analyze recipes across different cuisines, c
 - What percentage of recipes are rated above 4 stars?
 
 - Dashboard Interaction <a href="https://github.com/prachisonaje/excel-analytics-dashboard/blob/main/global%20recipe%20insight.jpg">View Dashboard</a>
+
+## Process
+1.Data Collection
+- Collected food recipe data including cuisine type, ingredients, cooking time, difficulty, and ratings.
+- Stored data in an Excel file (Food_Recipes.xlsx).
+
+2.Data Cleaning
+- Removed duplicate and blank entries.
+- Standardized cuisine names and difficulty levels.
+- Formatted numeric and categorical data for consistency.
+
+3.Data Preparation
+- Created calculated columns (e.g., average rating, total time, or category counts).
+- Organized data into structured tables suitable for pivot analysis.
+
+4.Dashboard Development
+- Built pivot tables to summarize key metrics (ratings, cuisines, ingredients, etc.).
+- Added charts (bar, pie, and line) for visual insights.
+- Used slicers for interactive filtering by cuisine, difficulty, and rating.
+
+4.Visualization & Insights
+- Designed an interactive dashboard layout.
+- Highlighted key KPIs such as top-rated cuisine, average cooking time, and most popular ingredients.
+- Drew conclusions and insights based on visual trends.
